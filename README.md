@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @arakov
+- 👀 I’m interested in OOP / dynamic languages / compilers
